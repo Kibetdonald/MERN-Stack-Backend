@@ -8,3 +8,7 @@
 > 5. Defined the database schema
 > 6. Created post request routes
 
+# Day Two
+> 1. Worked on the post, get and delete controllers
+> 2. Add the controlers to the routes
+> 3. Tested post and get request on Postman
